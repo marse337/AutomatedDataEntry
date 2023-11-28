@@ -1,6 +1,6 @@
 # AutomatedDataEntry
 Using OpenRPA and Google sheets to complete a challenge
-Sure, here is a description summary with an overview of the steps:
+
 
 **Automating Data Entry with AutoHotKey and Google Chrome**
 
